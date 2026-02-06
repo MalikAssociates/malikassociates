@@ -88,3 +88,4 @@ document.addEventListener('DOMContentLoaded', () => {
         height: 900px; /* Even taller on mobile to prevent double scrollbars */
     }
 }
+
